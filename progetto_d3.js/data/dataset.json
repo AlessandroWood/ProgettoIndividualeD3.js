@@ -1,0 +1,12 @@
+[
+  {"x": 1,  "y":1, "width": 2, "height": 2, "hex": "#003f5c"},
+  {"x": 2, "y": 2, "width": 2, "height": 2, "hex": "#2f4b7c"},
+  {"x": 3, "y": 3, "width": 2, "height": 2, "hex": "#665191"},
+  {"x": 4, "y": 4, "width": 2, "height": 2, "hex": "#a05195"},
+  {"x": 5, "y": 5, "width": 2, "height": 2, "hex": "#d45087"},
+  {"x": 6, "y": 6, "width": 2, "height": 2, "hex": "#f95d6a"},
+  {"x": 7, "y": 7, "width": 2, "height": 2, "hex": "#ff7c43"},
+  {"x": 8, "y": 8, "width": 2, "height": 2, "hex": "#ffa600"},
+  {"x": 9, "y": 9, "width": 2, "height": 2, "hex": "#488f31"},
+  {"x": 10, "y": 10, "width": 2, "height": 2, "hex": "#c1e7ff"}
+]
